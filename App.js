@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { View, Text, Image, StyleSheet, ScrollView } from 'react-native';
 
-// Importando imagens locais
 import img1 from './assets/celticsxgolden.png';
 import img2 from './assets/chelseaxarsenal.png';
 import img3 from './assets/flamengoxvasco.png';
